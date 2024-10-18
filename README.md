@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <title>Diabetes Prediction Model</title> <!-- Added title -->
 </head>
 <body>
     <h1>Diabetes Prediction Model</h1>
@@ -48,7 +48,6 @@
 
     <h2 id="license">License</h2>
     <p>This project is licensed under the MIT License.</p>
-
 
 </body>
 </html>
